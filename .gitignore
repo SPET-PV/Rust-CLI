@@ -1,1 +1,7 @@
 /target
+/logs/
+/logs/
+/temp/**
+*.pdf
+TODO.md
+
