@@ -1,6 +1,7 @@
-/target
+/target/
+/.vscode/
 /logs/
 /temp/**
 *.pdf
-TODO.md
+*.md
 
